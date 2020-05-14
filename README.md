@@ -1,2 +1,2 @@
 # Projetos
-Projetos e trabalhos desenvolvidos na faculdade 
+Exercício de Programação da aula Algoritmos e Estruturas de Dados. 
